@@ -1,0 +1,24 @@
+# Środowisko wirtualne
+.venv/
+
+# Dane
+*.csv
+*.zip
+
+# Obrazy
+*.png
+*.jpg
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# venv config
+pyvenv.cfg
