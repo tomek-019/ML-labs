@@ -2,7 +2,6 @@
 .venv/
 
 # Dane
-*.csv
 *.zip
 
 # Obrazy
